@@ -1,0 +1,10 @@
+{
+  "python.pythonPath": "C:Users\\caauc\\.virtualenvs\\PROYECTOS_WEB_CON_PYTHON_Y_DJANGO-R7FdOVav\\Scripts\\python.exe",
+  //"python.pythonPath": "C:\\Users\\caauc\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\python.exe",
+  "python.languageServer": "Pylance",
+  "python.analysis.useImportHeuristic": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "none"
+}
